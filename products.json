@@ -1,0 +1,41 @@
+[
+    {
+        "type": "physical",
+        "product_id": "P101",
+        "name": "Laptop",
+        "price": 1200.0,
+        "quantity_available": 100,
+        "weight": 2.2
+    },
+    {
+        "type": "physical",
+        "product_id": "P102",
+        "name": "Mouse",
+        "price": 25.5,
+        "quantity_available": 500,
+        "weight": 0.1
+    },
+    {
+        "type": "digital",
+        "product_id": "D201",
+        "name": "Antivirus Software",
+        "price": 59.99,
+        "quantity_available": 99,
+        "download_link": "http://example.com/download/antivirus"
+    },
+    {
+        "type": "digital",
+        "product_id": "D202",
+        "name": "E-book: Python Mastery",
+        "price": 19.99,
+        "quantity_available": 200,
+        "download_link": "http://example.com/download/ebook-python"
+    },
+    {
+        "type": "product",
+        "product_id": "G301",
+        "name": "Gift Card",
+        "price": 50.0,
+        "quantity_available": 500
+    }
+]
